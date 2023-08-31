@@ -755,7 +755,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    font-size: 1.3rem;
+    font-size: .73rem;
   }
   body main .SixthSection .SixthSection-QuestionContainer .SS-Question .SS-Question-tittle h2 {
     background: transparent;
@@ -4245,6 +4245,14 @@
     background-color: #fad961;
     background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
   }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(5) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(6) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
   body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active .SixthSection-toggle {
     bottom: 10px;
   }
@@ -5010,6 +5018,14 @@
     background-color: #fad961;
     background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
   }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(5) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(6) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
   body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active {
     color: white;
   }
@@ -5042,6 +5058,14 @@
     background-image: linear-gradient(147deg, #ffe53b 0%, #ff2525 74%);
   }
   body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(4) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(5) {
+    background-color: #fad961;
+    background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+  }
+  body main .SixthSection .SixthSection-QuestionContainer .SS-Question.active:nth-child(6) {
     background-color: #fad961;
     background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
   }
